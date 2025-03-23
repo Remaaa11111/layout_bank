@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![Image Alt](https://github.com/Remaaa11111/layout_bank/blob/98af4fad15ad335aca74f6151aad758fadd9788e/assets/login%20page.png)
+
+![Image Alt](https://github.com/Remaaa11111/layout_bank/blob/74cc86bb245757c48945b93372892a5edb4b7a5c/assets/dashboard.png)
